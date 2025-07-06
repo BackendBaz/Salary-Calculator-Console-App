@@ -13,4 +13,5 @@ You have three tasks, and **you should use the ternary operator** instead of `if
 1. Determine the salary multiplier
    - It returns the salary multiplier based on **the number of days an employee skipped work**. Apply a `15%` penalty **if the employee skipped at least five days**.
 2. Calculate the bonus for products sold
+   - The **ISC pays `ten` monetary units for each product sold**, and **if an employee sells twenty products or more, the multiplier improves to `thirteen`**.
 3. Calculate the final salary for the employee
