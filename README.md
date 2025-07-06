@@ -15,3 +15,4 @@ You have three tasks, and **you should use the ternary operator** instead of `if
 2. Calculate the bonus for products sold
    - The **ISC pays `ten` monetary units for each product sold**, and **if an employee sells twenty products or more, the multiplier improves to `thirteen`**.
 3. Calculate the final salary for the employee
+   - It should multiply the base salary of `1000.00` by the salary multiplier, add the bonus, and return the result. However, **salaries should be capped at `2000.00`**.
